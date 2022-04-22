@@ -11,7 +11,11 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Passing Math decreased by 0.2%
 - % Passing Reading decreased by 0.3%
 -% Overall Passing decreased by 0.01%
+
+#### Invalid District Summary Data
 ![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20District%20Summary%20Data.PNG)
+
+#### Clean District Summary Data
 ![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20District%20Summary%20Data.PNG)
 	
 ### How is the school summary affected?
