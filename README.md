@@ -22,16 +22,16 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 ### How is the School Summary affected?
 #### After Cleaning the data and removing the invalid scores, Thomas High School:
 - Average Math Score decreased by 0.07%
-- Average Reading Score decreased by 0.05%
-- % Passing Math decreased by 0.2%
+- Average Reading Score increased by 0.05%
+- % Passing Math decreased by 0.09%
 - % Passing Reading decreased by 0.3%
-- % Overall Passing decreased by 0.01%
+- % Overall Passing decreased by 0.3%
 
 #### Invalid District Summary Data
-![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20District%20Summary%20Data.PNG)
+![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20School%20Summary%20Data.PNG)
 
 #### Clean District Summary Data
-![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20District%20Summary%20Data.PNG)
+![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20School%20Summary%20Data.PNG)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - 
