@@ -55,8 +55,8 @@ The primary purpose of this analysis is to clean the raw data and use explorator
      <td>Clean Math Scores by Grade</td>
   </tr>
   <tr>
-    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=270 height=480></td>
-    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=270 height=480></td>
+    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=200 height=400></td>
+    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=200 height=400></td>
   </tr>
  </table>
 
