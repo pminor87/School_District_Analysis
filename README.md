@@ -31,10 +31,10 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Overall Passing decreased by 0.3%
 
 #### Invalid District Summary Data
-![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20School%20Summary%20Data.PNG)
+![Invalid School Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20School%20Summary%20Data.PNG)
 
 #### Clean District Summary Data
-![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20School%20Summary%20Data.PNG)
+![Clean School Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20School%20Summary%20Data.PNG)
 
 <space>
 
@@ -104,12 +104,12 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Passing Reading decreased by 0.04%
 - % Overall Passing increased by 4.65%
 
-<space>
-<space>
+<space><space>
+<space><space>
 
 ## Summary
 #### Four noteworthy changes that took place after cleaning the data were:
 - For the most part there was a small decrease in score performance for Thomas High School in all five categories.
-- Their rankings against other schools decreased for everything except % Overall Passing
+- Their rankings against other schools decreased for everything except "% Overall Passing".
 - Their rankings for 9th graders for math and reading scores went from 3rd and 5th respectively, to last for both due to the NaN values.
 - One interesting piece of data was that their average Reading score increased by 0.05% after cleaning the data which may mean that the 9th grade students that cheated were not very good at it.
