@@ -61,6 +61,7 @@ The primary purpose of this analysis is to clean the raw data and use explorator
   </tr>
  </table>
  
+ 
  #### Reading scores by grade
 - Reading Scores Previous Rank: 5th
 - Reading Scores after data clean: Last due to NaN values.
@@ -70,8 +71,8 @@ The primary purpose of this analysis is to clean the raw data and use explorator
      <td>Clean Math Scores by Grade</td>
   </tr>
   <tr>
-    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=200 height=350></td>
-    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=200 height=350></td>
+    <td><img src="Resources/Invalid Reading Scores by Grade.PNG" width=200 height=350></td>
+    <td><img src="Resources/Clean Reading Scores by Grade.PNG" width=200 height=350></td>
   </tr>
  </table>
 
