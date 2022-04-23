@@ -45,20 +45,38 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - Previously ranked 1st for % Passing Reading, after removing invalid data they ranked 3rd. This means there was a significant enough effect on this percentage to drop them by two spots in the ranking.
 - Previously ranked 2nd for % Overall Passing, after removing invalid data they ranked 2nd. This means there was little to no affect on this percentage.
 	
+	
 ### How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-
-
+#### Math scores by grade
+- Math Scores Previous Rank: 3rd
+- Math Scores after data clean: Last due to NaN values.
 <table>
   <tr>
     <td>Invalid Math Scores by Grade</td>
      <td>Clean Math Scores by Grade</td>
   </tr>
   <tr>
-    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=200 height=400></td>
-    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=200 height=400></td>
+    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=200 height=350></td>
+    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=200 height=350></td>
   </tr>
  </table>
+ 
+ #### Reading scores by grade
+- Reading Scores Previous Rank: 5th
+- Reading Scores after data clean: Last due to NaN values.
+<table>
+  <tr>
+    <td>Invalid Math Scores by Grade</td>
+     <td>Clean Math Scores by Grade</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=200 height=350></td>
+    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=200 height=350></td>
+  </tr>
+ </table>
+
+
+
 
 
 - Scores by school spending
