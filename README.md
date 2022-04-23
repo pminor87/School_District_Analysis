@@ -12,14 +12,15 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Passing Reading decreased by 0.3%
 - % Overall Passing decreased by 0.01%
 
+<space>
+
 #### Invalid District Summary Data
 ![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20District%20Summary%20Data.PNG)
 
 #### Clean District Summary Data
 ![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20District%20Summary%20Data.PNG)
 
-
-
+<space>
 
 ### How is the School Summary affected?
 #### After Cleaning the data and removing the invalid scores, Thomas High School:
@@ -35,21 +36,20 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 #### Clean District Summary Data
 ![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20School%20Summary%20Data.PNG)
 
-
-
-
+<space>
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### After Cleaning the data and removing the invalid scores, Thomas High School:
 - Previously ranked 7th for % Passing Math, after removing invalid data they ranked 7th. This means there was little to no affect on this percentage.
 - Previously ranked 1st for % Passing Reading, after removing invalid data they ranked 3rd. This means there was a significant enough effect on this percentage to drop them by two spots in the ranking.
 - Previously ranked 2nd for % Overall Passing, after removing invalid data they ranked 2nd. This means there was little to no affect on this percentage.
-	
-	
+
+<space>
+
 ### How does replacing the ninth-grade scores affect the following:
 #### Math scores by grade
 - Math Scores Previous Rank: 3rd
-- Math Scores after data clean: Last due to NaN values.
+- Math Scores Rank after data clean: Last, due to NaN values.
 <table>
   <tr>
     <td>Invalid Math Scores by Grade</td>
@@ -61,10 +61,11 @@ The primary purpose of this analysis is to clean the raw data and use explorator
   </tr>
  </table>
  
+ <space>
  
  #### Reading scores by grade
 - Reading Scores Previous Rank: 5th
-- Reading Scores after data clean: Last due to NaN values.
+- Reading Scores Rank after data clean: Last, due to NaN values.
 <table>
   <tr>
     <td>Invalid Math Scores by Grade</td>
@@ -76,12 +77,36 @@ The primary purpose of this analysis is to clean the raw data and use explorator
   </tr>
  </table>
 
+<space>
 
+#### Scores by school spending ("$631-645")
+- Average Math Score decreased by 0.02%
+- Average Reading Score increased by 0.01%
+- % Passing Math decreased by 0.02%
+- % Passing Reading decreased by 0.07%
+- % Overall Passing increased by 17.2%
 
+<space>
 
+#### Scores by school size ("Medium (1000-1999)")
+- Average Math Score decreased by 0.01%
+- Average Reading Score decreased by 0.01%
+- % Passing Math decreased by 0.02%
+- % Passing Reading decreased by 0.06%
+- % Overall Passing decreased bu 0/46%
 
-- Scores by school spending
-- Scores by school size
-- Scores by school type
+<space>
+
+#### Scores by school type ("Charter")
+- Average Math Score decreased by 0.01%
+- Average Reading Score was unaffected
+- % Passing Math decreased by 0.01%
+- % Passing Reading decreased by 0.04%
+- % Overall Passing increased by 4.65%
+
+<space>
+<space>
 
 ## Summary
+#### Four noteworthy changes that took place after cleaning the data were:
+- 
