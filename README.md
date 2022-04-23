@@ -12,18 +12,6 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Passing Reading decreased by 0.3%
 - % Overall Passing decreased by 0.01%
 
-
-<table>
-  <tr>
-    <td>Invalid District Summary Data</td>
-     <td>Clean District Summary Data</td>
-  </tr>
-  <tr>
-    <td><img src="Resources/Invalid District Summary Data.PNG" width=270 height=480></td>
-    <td><img src="Resources/Clean District Summary Data.PNG" width=270 height=480></td>
-  </tr>
- </table>
-
 #### Invalid District Summary Data
 ![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20District%20Summary%20Data.PNG)
 
@@ -59,6 +47,20 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 	
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
+
+<table>
+  <tr>
+    <td>Invalid Math Scores by Grade</td>
+     <td>Clean Math Scores by Grade</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/Invalid Math Scores by Grade.PNG" width=270 height=480></td>
+    <td><img src="Resources/Clean Math Scores by Grade.PNG" width=270 height=480></td>
+  </tr>
+ </table>
+
+
 - Scores by school spending
 - Scores by school size
 - Scores by school type
