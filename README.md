@@ -12,11 +12,25 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - % Passing Reading decreased by 0.3%
 - % Overall Passing decreased by 0.01%
 
+
+<table>
+  <tr>
+    <td>Invalid District Summary Data</td>
+     <td>Clean District Summary Data</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/Invalid District Summary Data.PNG" width=270 height=480></td>
+    <td><img src="Resources/Clean District Summary Data.PNG" width=270 height=480></td>
+  </tr>
+ </table>
+
 #### Invalid District Summary Data
 ![Invalid District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Invalid%20District%20Summary%20Data.PNG)
 
 #### Clean District Summary Data
 ![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20District%20Summary%20Data.PNG)
+
+
 
 
 ### How is the School Summary affected?
@@ -33,8 +47,15 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 #### Clean District Summary Data
 ![Clean District Summary Data](https://github.com/pminor87/School_District_Analysis/blob/main/Resources/Clean%20School%20Summary%20Data.PNG)
 
+
+
+
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- 
+#### After Cleaning the data and removing the invalid scores, Thomas High School:
+- Previously ranked 7th for % Passing Math, after removing invalid data they ranked 7th. This means there was little to no affect on this percentage.
+- Previously ranked 1st for % Passing Reading, after removing invalid data they ranked 3rd. This means there was a significant enough effect on this percentage to drop them by two spots in the ranking.
+- Previously ranked 2nd for % Overall Passing, after removing invalid data they ranked 2nd. This means there was little to no affect on this percentage.
 	
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
