@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview of the School District Analysis
-The primary purpose of this analysis is to clean the raw data and use exploratory analysis to display the data for grade scores and passing percentage as it relates to School Spending, School Size, and School Size.
+The primary purpose of this analysis is to clean the raw data and use exploratory analysis to display the data for grade scores and passing percentage as it relates to School Spending, School Size, and School Type.
  
 ## Results
 ### How is the District Summary affected?
@@ -68,8 +68,8 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 - Reading Scores Rank after data clean: Last, due to NaN values.
 <table>
   <tr>
-    <td>Invalid Math Scores by Grade</td>
-     <td>Clean Math Scores by Grade</td>
+    <td>Invalid Reading Scores by Grade</td>
+     <td>Clean Reading Scores by Grade</td>
   </tr>
   <tr>
     <td><img src="Resources/Invalid Reading Scores by Grade.PNG" width=200 height=350></td>
@@ -109,4 +109,7 @@ The primary purpose of this analysis is to clean the raw data and use explorator
 
 ## Summary
 #### Four noteworthy changes that took place after cleaning the data were:
-- 
+- For the most part there was a small decrease in score performance for Thomas High School in all five categories.
+- Their rankings against other schools decreased for everything except % Overall Passing
+- Their rankings for 9th graders for math and reading scores went from 3rd and 5th respectively, to last for both due to the NaN values.
+- One interesting piece of data was that their average Reading score increased by 0.05% after cleaning the data which may mean that the 9th grade students that cheated were not very good at it.
